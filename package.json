@@ -1,0 +1,22 @@
+{
+  "name": "@pierreminiggio/set-default-value-for-key-in-object",
+  "version": "1.0.0",
+  "description": "Set default value for key in object",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierreminiggio/set-default-value-for-key-in-object.git"
+  },
+  "author": "Pierre MINIGGIO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pierreminiggio/set-default-value-for-key-in-object/issues"
+  },
+  "homepage": "https://github.com/pierreminiggio/set-default-value-for-key-in-object#readme",
+  "dependencies": {
+  }
+}
