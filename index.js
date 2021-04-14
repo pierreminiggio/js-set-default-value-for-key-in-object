@@ -5,7 +5,7 @@
  * 
  * @returns {void}
  */
-export default function setDefaultConfig(object, configKey, defaultValue) {
+export default function setDefault(object, configKey, defaultValue) {
     if (! (configKey in object)) {
         object[configKey] = defaultValue
     }
